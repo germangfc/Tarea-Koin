@@ -1,0 +1,97 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:org.example.cache////PointingToDeclaration/-tarea-koin-estudiantes/org.example.cache/index.html
+$dokka.location:org.example.cache/Cache///PointingToDeclaration/-tarea-koin-estudiantes/org.example.cache/-cache/index.html
+$dokka.location:org.example.cache/Cache/clear/#/PointingToDeclaration/-tarea-koin-estudiantes/org.example.cache/-cache/clear.html
+$dokka.location:org.example.cache/Cache/get/#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/-tarea-koin-estudiantes/org.example.cache/-cache/get.html
+$dokka.location:org.example.cache/Cache/put/#TypeParam(bounds=[kotlin.Any?])#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/-tarea-koin-estudiantes/org.example.cache/-cache/put.html
+$dokka.location:org.example.cache/Cache/remove/#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/-tarea-koin-estudiantes/org.example.cache/-cache/remove.html
+$dokka.location:org.example.cache/CacheImpl///PointingToDeclaration/-tarea-koin-estudiantes/org.example.cache/-cache-impl/index.html
+$dokka.location:org.example.cache/CacheImpl/CacheImpl/#kotlin.Int/PointingToDeclaration/-tarea-koin-estudiantes/org.example.cache/-cache-impl/-cache-impl.html
+$dokka.location:org.example.cache/CacheImpl/clear/#/PointingToDeclaration/-tarea-koin-estudiantes/org.example.cache/-cache-impl/clear.html
+$dokka.location:org.example.cache/CacheImpl/get/#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/-tarea-koin-estudiantes/org.example.cache/-cache-impl/get.html
+$dokka.location:org.example.cache/CacheImpl/put/#TypeParam(bounds=[kotlin.Any?])#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/-tarea-koin-estudiantes/org.example.cache/-cache-impl/put.html
+$dokka.location:org.example.cache/CacheImpl/remove/#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/-tarea-koin-estudiantes/org.example.cache/-cache-impl/remove.html
+$dokka.location:org.example.cache/EstudiantesCache///PointingToDeclaration/-tarea-koin-estudiantes/org.example.cache/-estudiantes-cache/index.html
+$dokka.location:org.example.cache/EstudiantesCache/EstudiantesCache/#kotlin.Int/PointingToDeclaration/-tarea-koin-estudiantes/org.example.cache/-estudiantes-cache/-estudiantes-cache.html
+$dokka.location:org.example.database////PointingToDeclaration/-tarea-koin-estudiantes/org.example.database/index.html
+$dokka.location:org.example.database//initDemoEstudiantes/#/PointingToDeclaration/-tarea-koin-estudiantes/org.example.database/init-demo-estudiantes.html
+$dokka.location:org.example.di////PointingToDeclaration/-tarea-koin-estudiantes/org.example.di/index.html
+$dokka.location:org.example.di//EstudiantesModule/#/PointingToDeclaration/-tarea-koin-estudiantes/org.example.di/-estudiantes-module.html
+$dokka.location:org.example.errors.cache////PointingToDeclaration/-tarea-koin-estudiantes/org.example.errors.cache/index.html
+$dokka.location:org.example.errors.cache/CacheError///PointingToDeclaration/-tarea-koin-estudiantes/org.example.errors.cache/-cache-error/index.html
+$dokka.location:org.example.errors.cache/CacheError/CacheError/#kotlin.String/PointingToDeclaration/-tarea-koin-estudiantes/org.example.errors.cache/-cache-error/-cache-error.html
+$dokka.location:org.example.errors.cache/CacheError/message/#/PointingToDeclaration/-tarea-koin-estudiantes/org.example.errors.cache/-cache-error/message.html
+$dokka.location:org.example.errors.estudiantes////PointingToDeclaration/-tarea-koin-estudiantes/org.example.errors.estudiantes/index.html
+$dokka.location:org.example.errors.estudiantes/EstudianteError.EstudianteNoActualizado///PointingToDeclaration/-tarea-koin-estudiantes/org.example.errors.estudiantes/-estudiante-error/-estudiante-no-actualizado/index.html
+$dokka.location:org.example.errors.estudiantes/EstudianteError.EstudianteNoActualizado/EstudianteNoActualizado/#kotlin.String/PointingToDeclaration/-tarea-koin-estudiantes/org.example.errors.estudiantes/-estudiante-error/-estudiante-no-actualizado/-estudiante-no-actualizado.html
+$dokka.location:org.example.errors.estudiantes/EstudianteError.EstudianteNoEliminado///PointingToDeclaration/-tarea-koin-estudiantes/org.example.errors.estudiantes/-estudiante-error/-estudiante-no-eliminado/index.html
+$dokka.location:org.example.errors.estudiantes/EstudianteError.EstudianteNoEliminado/EstudianteNoEliminado/#kotlin.String/PointingToDeclaration/-tarea-koin-estudiantes/org.example.errors.estudiantes/-estudiante-error/-estudiante-no-eliminado/-estudiante-no-eliminado.html
+$dokka.location:org.example.errors.estudiantes/EstudianteError.EstudianteNoEncontrado///PointingToDeclaration/-tarea-koin-estudiantes/org.example.errors.estudiantes/-estudiante-error/-estudiante-no-encontrado/index.html
+$dokka.location:org.example.errors.estudiantes/EstudianteError.EstudianteNoEncontrado/EstudianteNoEncontrado/#kotlin.String/PointingToDeclaration/-tarea-koin-estudiantes/org.example.errors.estudiantes/-estudiante-error/-estudiante-no-encontrado/-estudiante-no-encontrado.html
+$dokka.location:org.example.errors.estudiantes/EstudianteError.EstudianteNoValido///PointingToDeclaration/-tarea-koin-estudiantes/org.example.errors.estudiantes/-estudiante-error/-estudiante-no-valido/index.html
+$dokka.location:org.example.errors.estudiantes/EstudianteError.EstudianteNoValido/EstudianteNoValido/#kotlin.String/PointingToDeclaration/-tarea-koin-estudiantes/org.example.errors.estudiantes/-estudiante-error/-estudiante-no-valido/-estudiante-no-valido.html
+$dokka.location:org.example.errors.estudiantes/EstudianteError///PointingToDeclaration/-tarea-koin-estudiantes/org.example.errors.estudiantes/-estudiante-error/index.html
+$dokka.location:org.example.errors.estudiantes/EstudianteError/message/#/PointingToDeclaration/-tarea-koin-estudiantes/org.example.errors.estudiantes/-estudiante-error/message.html
+$dokka.location:org.example.mappers////PointingToDeclaration/-tarea-koin-estudiantes/org.example.mappers/index.html
+$dokka.location:org.example.mappers//toEstudiante/database.Estudiantes#/PointingToDeclaration/-tarea-koin-estudiantes/org.example.mappers/to-estudiante.html
+$dokka.location:org.example.models////PointingToDeclaration/-tarea-koin-estudiantes/org.example.models/index.html
+$dokka.location:org.example.models/Estudiante///PointingToDeclaration/-tarea-koin-estudiantes/org.example.models/-estudiante/index.html
+$dokka.location:org.example.models/Estudiante/Estudiante/#kotlin.Long#kotlin.String#kotlin.Double#java.time.LocalDateTime#java.time.LocalDateTime#kotlin.Boolean/PointingToDeclaration/-tarea-koin-estudiantes/org.example.models/-estudiante/-estudiante.html
+$dokka.location:org.example.models/Estudiante/calificacion/#/PointingToDeclaration/-tarea-koin-estudiantes/org.example.models/-estudiante/calificacion.html
+$dokka.location:org.example.models/Estudiante/createdAt/#/PointingToDeclaration/-tarea-koin-estudiantes/org.example.models/-estudiante/created-at.html
+$dokka.location:org.example.models/Estudiante/id/#/PointingToDeclaration/-tarea-koin-estudiantes/org.example.models/-estudiante/id.html
+$dokka.location:org.example.models/Estudiante/isDeleted/#/PointingToDeclaration/-tarea-koin-estudiantes/org.example.models/-estudiante/is-deleted.html
+$dokka.location:org.example.models/Estudiante/nombre/#/PointingToDeclaration/-tarea-koin-estudiantes/org.example.models/-estudiante/nombre.html
+$dokka.location:org.example.models/Estudiante/updatedAt/#/PointingToDeclaration/-tarea-koin-estudiantes/org.example.models/-estudiante/updated-at.html
+$dokka.location:org.example.repositories.estudiantes////PointingToDeclaration/-tarea-koin-estudiantes/org.example.repositories.estudiantes/index.html
+$dokka.location:org.example.repositories.estudiantes/EstudiantesRepository///PointingToDeclaration/-tarea-koin-estudiantes/org.example.repositories.estudiantes/-estudiantes-repository/index.html
+$dokka.location:org.example.repositories.estudiantes/EstudiantesRepository/delete/#kotlin.Long/PointingToDeclaration/-tarea-koin-estudiantes/org.example.repositories.estudiantes/-estudiantes-repository/delete.html
+$dokka.location:org.example.repositories.estudiantes/EstudiantesRepository/findAll/#/PointingToDeclaration/-tarea-koin-estudiantes/org.example.repositories.estudiantes/-estudiantes-repository/find-all.html
+$dokka.location:org.example.repositories.estudiantes/EstudiantesRepository/findByCalificacion/#kotlin.Double/PointingToDeclaration/-tarea-koin-estudiantes/org.example.repositories.estudiantes/-estudiantes-repository/find-by-calificacion.html
+$dokka.location:org.example.repositories.estudiantes/EstudiantesRepository/findById/#kotlin.Long/PointingToDeclaration/-tarea-koin-estudiantes/org.example.repositories.estudiantes/-estudiantes-repository/find-by-id.html
+$dokka.location:org.example.repositories.estudiantes/EstudiantesRepository/save/#org.example.models.Estudiante/PointingToDeclaration/-tarea-koin-estudiantes/org.example.repositories.estudiantes/-estudiantes-repository/save.html
+$dokka.location:org.example.repositories.estudiantes/EstudiantesRepository/update/#kotlin.Long#org.example.models.Estudiante/PointingToDeclaration/-tarea-koin-estudiantes/org.example.repositories.estudiantes/-estudiantes-repository/update.html
+$dokka.location:org.example.repositories.estudiantes/EstudiantesRepositoryImpl///PointingToDeclaration/-tarea-koin-estudiantes/org.example.repositories.estudiantes/-estudiantes-repository-impl/index.html
+$dokka.location:org.example.repositories.estudiantes/EstudiantesRepositoryImpl/EstudiantesRepositoryImpl/#/PointingToDeclaration/-tarea-koin-estudiantes/org.example.repositories.estudiantes/-estudiantes-repository-impl/-estudiantes-repository-impl.html
+$dokka.location:org.example.repositories.estudiantes/EstudiantesRepositoryImpl/delete/#kotlin.Long/PointingToDeclaration/-tarea-koin-estudiantes/org.example.repositories.estudiantes/-estudiantes-repository-impl/delete.html
+$dokka.location:org.example.repositories.estudiantes/EstudiantesRepositoryImpl/findAll/#/PointingToDeclaration/-tarea-koin-estudiantes/org.example.repositories.estudiantes/-estudiantes-repository-impl/find-all.html
+$dokka.location:org.example.repositories.estudiantes/EstudiantesRepositoryImpl/findByCalificacion/#kotlin.Double/PointingToDeclaration/-tarea-koin-estudiantes/org.example.repositories.estudiantes/-estudiantes-repository-impl/find-by-calificacion.html
+$dokka.location:org.example.repositories.estudiantes/EstudiantesRepositoryImpl/findById/#kotlin.Long/PointingToDeclaration/-tarea-koin-estudiantes/org.example.repositories.estudiantes/-estudiantes-repository-impl/find-by-id.html
+$dokka.location:org.example.repositories.estudiantes/EstudiantesRepositoryImpl/save/#org.example.models.Estudiante/PointingToDeclaration/-tarea-koin-estudiantes/org.example.repositories.estudiantes/-estudiantes-repository-impl/save.html
+$dokka.location:org.example.repositories.estudiantes/EstudiantesRepositoryImpl/update/#kotlin.Long#org.example.models.Estudiante/PointingToDeclaration/-tarea-koin-estudiantes/org.example.repositories.estudiantes/-estudiantes-repository-impl/update.html
+$dokka.location:org.example.services.database////PointingToDeclaration/-tarea-koin-estudiantes/org.example.services.database/index.html
+$dokka.location:org.example.services.database//properties/#/PointingToDeclaration/-tarea-koin-estudiantes/org.example.services.database/properties.html
+$dokka.location:org.example.services.database/SqlDeLightClient///PointingToDeclaration/-tarea-koin-estudiantes/org.example.services.database/-sql-de-light-client/index.html
+$dokka.location:org.example.services.database/SqlDeLightClient/databaseQueries/#/PointingToDeclaration/-tarea-koin-estudiantes/org.example.services.database/-sql-de-light-client/database-queries.html
+$dokka.location:org.example.services.database/SqlDeLightClient/initialize/#/PointingToDeclaration/-tarea-koin-estudiantes/org.example.services.database/-sql-de-light-client/initialize.html
+$dokka.location:org.example.services.estudiantes////PointingToDeclaration/-tarea-koin-estudiantes/org.example.services.estudiantes/index.html
+$dokka.location:org.example.services.estudiantes/EstudiantesService///PointingToDeclaration/-tarea-koin-estudiantes/org.example.services.estudiantes/-estudiantes-service/index.html
+$dokka.location:org.example.services.estudiantes/EstudiantesService/create/#org.example.models.Estudiante/PointingToDeclaration/-tarea-koin-estudiantes/org.example.services.estudiantes/-estudiantes-service/create.html
+$dokka.location:org.example.services.estudiantes/EstudiantesService/delete/#kotlin.Long/PointingToDeclaration/-tarea-koin-estudiantes/org.example.services.estudiantes/-estudiantes-service/delete.html
+$dokka.location:org.example.services.estudiantes/EstudiantesService/getAll/#/PointingToDeclaration/-tarea-koin-estudiantes/org.example.services.estudiantes/-estudiantes-service/get-all.html
+$dokka.location:org.example.services.estudiantes/EstudiantesService/getByCalificacion/#kotlin.Double/PointingToDeclaration/-tarea-koin-estudiantes/org.example.services.estudiantes/-estudiantes-service/get-by-calificacion.html
+$dokka.location:org.example.services.estudiantes/EstudiantesService/getById/#kotlin.Long/PointingToDeclaration/-tarea-koin-estudiantes/org.example.services.estudiantes/-estudiantes-service/get-by-id.html
+$dokka.location:org.example.services.estudiantes/EstudiantesService/update/#kotlin.Long#org.example.models.Estudiante/PointingToDeclaration/-tarea-koin-estudiantes/org.example.services.estudiantes/-estudiantes-service/update.html
+$dokka.location:org.example.services.estudiantes/EstudiantesServiceImpl///PointingToDeclaration/-tarea-koin-estudiantes/org.example.services.estudiantes/-estudiantes-service-impl/index.html
+$dokka.location:org.example.services.estudiantes/EstudiantesServiceImpl/EstudiantesServiceImpl/#org.example.repositories.estudiantes.EstudiantesRepository#org.example.cache.EstudiantesCache/PointingToDeclaration/-tarea-koin-estudiantes/org.example.services.estudiantes/-estudiantes-service-impl/-estudiantes-service-impl.html
+$dokka.location:org.example.services.estudiantes/EstudiantesServiceImpl/create/#org.example.models.Estudiante/PointingToDeclaration/-tarea-koin-estudiantes/org.example.services.estudiantes/-estudiantes-service-impl/create.html
+$dokka.location:org.example.services.estudiantes/EstudiantesServiceImpl/delete/#kotlin.Long/PointingToDeclaration/-tarea-koin-estudiantes/org.example.services.estudiantes/-estudiantes-service-impl/delete.html
+$dokka.location:org.example.services.estudiantes/EstudiantesServiceImpl/getAll/#/PointingToDeclaration/-tarea-koin-estudiantes/org.example.services.estudiantes/-estudiantes-service-impl/get-all.html
+$dokka.location:org.example.services.estudiantes/EstudiantesServiceImpl/getByCalificacion/#kotlin.Double/PointingToDeclaration/-tarea-koin-estudiantes/org.example.services.estudiantes/-estudiantes-service-impl/get-by-calificacion.html
+$dokka.location:org.example.services.estudiantes/EstudiantesServiceImpl/getById/#kotlin.Long/PointingToDeclaration/-tarea-koin-estudiantes/org.example.services.estudiantes/-estudiantes-service-impl/get-by-id.html
+$dokka.location:org.example.services.estudiantes/EstudiantesServiceImpl/update/#kotlin.Long#org.example.models.Estudiante/PointingToDeclaration/-tarea-koin-estudiantes/org.example.services.estudiantes/-estudiantes-service-impl/update.html
+$dokka.location:org.example////PointingToDeclaration/-tarea-koin-estudiantes/org.example/index.html
+$dokka.location:org.example//main/#/PointingToDeclaration/-tarea-koin-estudiantes/org.example/main.html
+org.example
+org.example.cache
+org.example.database
+org.example.di
+org.example.errors.cache
+org.example.errors.estudiantes
+org.example.mappers
+org.example.models
+org.example.repositories.estudiantes
+org.example.services.database
+org.example.services.estudiantes
+

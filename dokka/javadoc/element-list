@@ -1,0 +1,18 @@
+$dokka.format:javadoc-v1
+$dokka.linkExtension:html
+$dokka.location:org.example.errors.estudiantes/EstudianteError.EstudianteNoActualizado///PointingToDeclaration/org/example/errors/estudiantes/EstudianteError.EstudianteNoActualizado.html
+$dokka.location:org.example.errors.estudiantes/EstudianteError.EstudianteNoEliminado///PointingToDeclaration/org/example/errors/estudiantes/EstudianteError.EstudianteNoEliminado.html
+$dokka.location:org.example.errors.estudiantes/EstudianteError.EstudianteNoEncontrado///PointingToDeclaration/org/example/errors/estudiantes/EstudianteError.EstudianteNoEncontrado.html
+$dokka.location:org.example.errors.estudiantes/EstudianteError.EstudianteNoValido///PointingToDeclaration/org/example/errors/estudiantes/EstudianteError.EstudianteNoValido.html
+org.example
+org.example.cache
+org.example.database
+org.example.di
+org.example.errors.cache
+org.example.errors.estudiantes
+org.example.mappers
+org.example.models
+org.example.repositories.estudiantes
+org.example.services.database
+org.example.services.estudiantes
+
